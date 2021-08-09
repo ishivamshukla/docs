@@ -24,7 +24,7 @@ topics:
 
 When you become a sponsored developer or sponsored organization, additional terms for {% data variables.product.prodname_sponsors %} apply. For more information, see "[GitHub Sponsors Additional Terms](/github/site-policy/github-sponsors-additional-terms)."
 
-## About the {% data variables.product.prodname_matching_fund %}
+## About the {% data variables.product.prodname_matching_fund %} 
 
 {% note %}
 
